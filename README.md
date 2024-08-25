@@ -1,11 +1,10 @@
 
 # **Infix, Postfix and Prefix Conversion Visualizer**
 
-**https://aadarsh-kumar-kiit/.github.io/infix-postfix-prefix_ConversionVisualizer/**
+
 
 **This project is a visualizer tool that allows you to convert mathematical expressions between infix, postfix, and prefix notations. With a user-friendly interface, it simplifies the understanding of complex expressions and assists in studying data structures and algorithms. Enhance your learning experience with this powerful conversion visualizer.**
 
-https://github.com/aadarsh-kumar-kiit//infix-postfix-prefix_ConversionVisualizer/assets/92537028/afdca5de-88fe-4cb0-b8f4-a43e5792d0ae
 
 ## ⚡Technologies Used
 
